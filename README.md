@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Sachin Jagtap</h1>
+<h1 align="center">Hi 👋, I am Sachin Jagtap</h1>
 <h3 align="center">A am Currently studying in Msc Computer Science</h3>
 
-<img align = "right" alt ="coding" width ="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fprototypr.io%2Finspiration%2Flate-night-coding-by-afsal-dribbble&psig=AOvVaw1x1v3Q7QzyQAwGkTPhpqAB&ust=1691505281584000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi0orvjyoADFQAAAAAdAAAAABAI ">
+<img align = "right" alt ="coding" width ="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fprototypr.io%2Finspiration%2Flate-night-coding-by-afsal-dribbble&psig=AOvVaw1x1v3Q7QzyQAwGkTPhpqAB&ust=1691505281584000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi0orvjyoADFQAAAAAdAAAAABAI](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FlP8xu5t2DLGG045H8F%2Fgiphy.gif&tbnid=heNSQwKORMWQ6M&vet=12ahUKEwjp2Oms4sqAAxUFoWMGHV8TAbsQMygPegUIARDJAg..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fgifs%2Fhacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F&docid=vCBWIW-_TDrIhM&w=382&h=480&q=animated%20coding%20gif&ved=2ahUKEwjp2Oms4sqAAxUFoWMGHV8TAbsQMygPegUIARDJAg) ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-sunil-jagtap&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-sunil-jagtap" /> </p>
 
