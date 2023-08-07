@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C,C++,JAVA,Python**
 
-- 👨‍💻 All of my projects are available at [[https://www.linkedin.com/feed/](https://www.linkedin.com/feed/](https://github.com/sachin-sunil-jagtap))
+- 👨‍💻 All of my projects are available at [(https://github.com/sachin-sunil-jagtap))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
